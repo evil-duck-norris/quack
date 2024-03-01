@@ -1,3 +1,6 @@
-export default function foo() {
-    return 1 + 1;
+const foo = 'barbazfoo';
+
+if (false) {
+    console.log(foo)
 }
+
